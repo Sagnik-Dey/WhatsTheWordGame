@@ -10,8 +10,9 @@ This is a game in Python in which you have to guess a word using clues given
 ## How to Use
 * Download and Install Python *(if not installed)*
 * Clone the repository
-* Install this font - 
+* Install this font for heading - 
 [Visit Here](https://www.fontspace.com/dont-turn-the-lights-on-font-f11820)
+* And Montserrat - [Install From here if not installed earlier](https://fonts.google.com/specimen/Montserrat)
 * Run the application by -
 ```bash
 cd build
