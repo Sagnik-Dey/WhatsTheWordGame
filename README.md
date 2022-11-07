@@ -15,7 +15,6 @@ This is a game in Python in which you have to guess a word using clues given
 * And Montserrat - [Install From here if not installed earlier](https://fonts.google.com/specimen/Montserrat)
 * Run the application by -
 ```bash
-cd build
 python gui.py
 ```
 * Enjoy the game
